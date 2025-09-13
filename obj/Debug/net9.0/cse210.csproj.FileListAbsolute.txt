@@ -1,0 +1,14 @@
+C:\Users\HomePC\Desktop\cse210\bin\Debug\net9.0\cse210.exe
+C:\Users\HomePC\Desktop\cse210\bin\Debug\net9.0\cse210.deps.json
+C:\Users\HomePC\Desktop\cse210\bin\Debug\net9.0\cse210.runtimeconfig.json
+C:\Users\HomePC\Desktop\cse210\bin\Debug\net9.0\cse210.dll
+C:\Users\HomePC\Desktop\cse210\bin\Debug\net9.0\cse210.pdb
+C:\Users\HomePC\Desktop\cse210\obj\Debug\net9.0\cse210.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HomePC\Desktop\cse210\obj\Debug\net9.0\cse210.AssemblyInfoInputs.cache
+C:\Users\HomePC\Desktop\cse210\obj\Debug\net9.0\cse210.AssemblyInfo.cs
+C:\Users\HomePC\Desktop\cse210\obj\Debug\net9.0\cse210.csproj.CoreCompileInputs.cache
+C:\Users\HomePC\Desktop\cse210\obj\Debug\net9.0\cse210.dll
+C:\Users\HomePC\Desktop\cse210\obj\Debug\net9.0\refint\cse210.dll
+C:\Users\HomePC\Desktop\cse210\obj\Debug\net9.0\cse210.pdb
+C:\Users\HomePC\Desktop\cse210\obj\Debug\net9.0\cse210.genruntimeconfig.cache
+C:\Users\HomePC\Desktop\cse210\obj\Debug\net9.0\ref\cse210.dll
