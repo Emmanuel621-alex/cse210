@@ -32,7 +32,7 @@ public class Journal
         {
             foreach (Entry entry in _entries)
             {
-                // use ~|~ separator
+                // use ~|- separator
                 writer.WriteLine($"{entry.Date}~|~{entry.Prompt}~|~{entry.Response}");
             }
         }
