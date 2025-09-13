@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\HomePC\\Desktop\\cse210\\cse210.csproj": {}
+    "C:\\Users\\HomePC\\Desktop\\cse210\\cse210.csproj": {}
   },
   "projects": {
-    "c:\\Users\\HomePC\\Desktop\\cse210\\cse210.csproj": {
+    "C:\\Users\\HomePC\\Desktop\\cse210\\cse210.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\HomePC\\Desktop\\cse210\\cse210.csproj",
+        "projectUniqueName": "C:\\Users\\HomePC\\Desktop\\cse210\\cse210.csproj",
         "projectName": "cse210",
-        "projectPath": "c:\\Users\\HomePC\\Desktop\\cse210\\cse210.csproj",
+        "projectPath": "C:\\Users\\HomePC\\Desktop\\cse210\\cse210.csproj",
         "packagesPath": "C:\\Users\\HomePC\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\HomePC\\Desktop\\cse210\\obj\\",
+        "outputPath": "C:\\Users\\HomePC\\Desktop\\cse210\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\HomePC\\AppData\\Roaming\\NuGet\\NuGet.Config"

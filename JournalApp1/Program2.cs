@@ -9,7 +9,6 @@ using System;
     - Save journal to file
     - Load journal from file
     - Menu-driven interface
-
     Exceeding Requirements:
     - Used ~|~ as a safe separator for file saving/loading
     - Added extra prompts for variety
