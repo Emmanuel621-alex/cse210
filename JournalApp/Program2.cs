@@ -17,7 +17,7 @@ using System;
     - Easy extension to CSV or JSON in the future
 */
 
-class Program
+class Program2
 {
     static void Main(string[] args)
     {
