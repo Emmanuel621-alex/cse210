@@ -1,0 +1,15 @@
+c:\EDACHE\cse210\bin\Debug\net9.0\Fraction\bin\Debug\net8.0\Fractions.exe
+c:\EDACHE\cse210\bin\Debug\net9.0\Fraction\bin\Debug\net8.0\Fractions.deps.json
+c:\EDACHE\cse210\bin\Debug\net9.0\Fraction\bin\Debug\net8.0\Fractions.runtimeconfig.json
+c:\EDACHE\cse210\bin\Debug\net9.0\Fraction\bin\Debug\net8.0\Fractions.dll
+c:\EDACHE\cse210\bin\Debug\net9.0\Fraction\bin\Debug\net8.0\Fractions.pdb
+c:\EDACHE\cse210\bin\Debug\net9.0\Fraction\obj\Debug\net8.0\Fractions.GeneratedMSBuildEditorConfig.editorconfig
+c:\EDACHE\cse210\bin\Debug\net9.0\Fraction\obj\Debug\net8.0\Fractions.AssemblyInfoInputs.cache
+c:\EDACHE\cse210\bin\Debug\net9.0\Fraction\obj\Debug\net8.0\Fractions.AssemblyInfo.cs
+c:\EDACHE\cse210\bin\Debug\net9.0\Fraction\obj\Debug\net8.0\Fractions.csproj.CoreCompileInputs.cache
+c:\EDACHE\cse210\bin\Debug\net9.0\Fraction\obj\Debug\net8.0\Fractions.sourcelink.json
+c:\EDACHE\cse210\bin\Debug\net9.0\Fraction\obj\Debug\net8.0\Fractions.dll
+c:\EDACHE\cse210\bin\Debug\net9.0\Fraction\obj\Debug\net8.0\refint\Fractions.dll
+c:\EDACHE\cse210\bin\Debug\net9.0\Fraction\obj\Debug\net8.0\Fractions.pdb
+c:\EDACHE\cse210\bin\Debug\net9.0\Fraction\obj\Debug\net8.0\Fractions.genruntimeconfig.cache
+c:\EDACHE\cse210\bin\Debug\net9.0\Fraction\obj\Debug\net8.0\ref\Fractions.dll
